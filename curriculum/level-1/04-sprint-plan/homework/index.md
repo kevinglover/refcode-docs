@@ -40,7 +40,7 @@ The pages should `<link>` the following CSS files:
 * Link to the `about.html` page
 * Begin to style your document using CSS in your `style.css` file.
 * Add the `reset.css` file to the `styles` folder of your repo.
-* Reference your [website sketch](../../../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
+* Reference your [website sketch](../../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
 
 ### About page requirements
 

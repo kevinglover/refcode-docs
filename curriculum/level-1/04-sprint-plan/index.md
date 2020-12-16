@@ -19,10 +19,10 @@ Strengthening our understanding on using CSS to style HTML.
 * Reinforce common vocabulary for development (local, save, refresh, render, etc...)
 
 ## Modules
-1. [HTTP Request Workshop](../../../modules/http-requests)
-1. [Project Introduction](../../../modules/level-1-project/mvp)
-1. [Using CSS to style HTML](../../../modules/using-css-to-style-html)
-1. [Using a CSS Reset](../../../modules/using-a-css-reset)
+1. [HTTP Request Workshop](../../modules/http-requests)
+1. [Project Introduction](../../modules/level-1-project/mvp)
+1. [Using CSS to style HTML](../../modules/using-css-to-style-html)
+1. [Using a CSS Reset](../../modules/using-a-css-reset)
 
 ## Homework
 [Homework for Sprint 4](./homework)
