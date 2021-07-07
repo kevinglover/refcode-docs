@@ -18,9 +18,9 @@ Applying what we've learned so far to our projects.
 
 ## Agenda
 1. Review: [Homework for Sprint 6](../06-sprint-plan/homework)
-1. Reminder: [Project MVP](../../../modules/level-1-project/mvp)
-1. Review: [Structuring HTML Pages](../../../modules/structuring-html-pages)
-1. [Finding Inspiration Workshop](../../../modules/finding-inspiration-workshop)
+1. Reminder: [Project MVP](../../modules/level-1-project/mvp)
+1. Review: [Structuring HTML Pages](../../modules/structuring-html-pages)
+1. [Finding Inspiration Workshop](../../modules/finding-inspiration-workshop)
 1. Project Work
 
 ## Homework
